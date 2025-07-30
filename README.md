@@ -57,18 +57,27 @@ Optional UI libraries or tools
 
 
 
-🧱 Technologies Used
+🧱 Technologies Used:
+
 Python 3.x (or other: JavaScript, HTML/CSS, Java, etc.)
+
 random module for move generation
+
 input() or GUI input for player choice
+
 Optional:  tkinter/pygame/React/Vue for graphical interface
 
 
 
-🚧 Future Enhancements
+🚧 Future Enhancements:
+
 Score tracking for multiple rounds
+
 Add multiplayer mode (local or networked)
+
 Add timer for quick decision-making
+
 Add difficulty levels (computer with prediction)
+
 Deploy as web application or mobile app
 
