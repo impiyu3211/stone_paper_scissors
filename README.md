@@ -3,7 +3,7 @@
 ✂️ Stone Paper Scissors Game
 A fun and interactive implementation of the classic Stone Paper Scissors game, where players compete against the computer. This project demonstrates basic programming concepts like conditionals, loops, randomization, and user input handling. Perfect for beginners learning programming or game logic.
 
-🎮 Features
+##🎮 Features
 Simple and intuitive user interface (CLI or GUI)
 Player vs Computer gameplay
 Randomized computer moves using a pseudo-random generator
@@ -14,7 +14,7 @@ Optional:
     Sound effects or animations (if GUI)
     Responsive GUI (if using HTML/CSS/JS or Python + Tkinter/PyQt)
 
-⚙️ Game Logic:
+##⚙️ Game Logic:
 
 Player selects: Stone, Paper, or Scissors
 
