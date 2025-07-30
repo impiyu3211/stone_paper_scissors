@@ -39,7 +39,7 @@ Scissors	     Stone	           Computer Wins
 Same       	     Same	                Draw
 
 
-🧠 Rules:
+##🧠 Rules:
 
 Stone beats Scissors
 
@@ -51,7 +51,7 @@ If both choices are the same, it's a Draw
 
 
 
-🕹 How to Play:
+##🕹 How to Play:
 
 *Run the program
 
@@ -67,7 +67,7 @@ If both choices are the same, it's a Draw
 
 
 
-📸 Example Output (CLI):
+##📸 Example Output (CLI):
 
 Choose (stone/paper/scissors): stone
 
@@ -76,7 +76,7 @@ Computer chose: scissors
 Result: You WIN! 🏆
 
 
-🛠 Tech Stack:
+##🛠 Tech Stack:
 
 Language/frameworks used
 
@@ -84,7 +84,7 @@ Optional UI libraries or tools
 
 
 
-🧱 Technologies Used:
+##🧱 Technologies Used:
 
 Python 3.x (or other: JavaScript, HTML/CSS, Java, etc.)
 
@@ -96,7 +96,7 @@ Optional:  tkinter/pygame/React/Vue for graphical interface
 
 
 
-🚧 Future Enhancements:
+##🚧 Future Enhancements:
 
 Score tracking for multiple rounds
 
