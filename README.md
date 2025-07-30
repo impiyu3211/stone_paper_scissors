@@ -14,9 +14,12 @@ Optional:
     Sound effects or animations (if GUI)
     Responsive GUI (if using HTML/CSS/JS or Python + Tkinter/PyQt)
 
-⚙️ Game Logic
+⚙️ Game Logic:
+
 Player selects: Stone, Paper, or Scissors
+
 Computer randomly selects one of the three
+
 Result is decided based on standard rules:
 
 Player →      Computer ↓      	Result
@@ -29,30 +32,47 @@ Scissors	     Stone	          Computer Wins
 Same       	   Same	            Draw
 
 
-🧠 Rules
+🧠 Rules:
+
 Stone beats Scissors
+
 Scissors beats Paper
+
 Paper beats Stone
+
 If both choices are the same, it's a Draw
 
 
 
-🕹 How to Play
+🕹 How to Play:
+
 *Run the program
+
 *Choose your move: Stone, Paper, or Scissors
+
 *Wait for the computer to make its move
+
 *View the result (Win/Loss/Draw)
+
 *Continue playing or exit the game
 
 
-📸 Example Output (CLI)
+
+
+
+📸 Example Output (CLI):
+
 Choose (stone/paper/scissors): stone
+
 Computer chose: scissors
+
 Result: You WIN! 🏆
 
 
-🛠 Tech Stack
+🛠 Tech Stack:
+
 Language/frameworks used
+
 Optional UI libraries or tools
 
 
