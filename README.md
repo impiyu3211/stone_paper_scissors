@@ -22,21 +22,21 @@ Computer randomly selects one of the three
 
 Result is decided based on standard rules:
 
-Player →      Computer ↓      	Result
+Player →         Computer ↓          	Result
 
-Stone          Scissors	          Player Wins
+Stone            Scissors	            Player Wins
 
-Stone	        Paper	          Computer Wins
+Stone	         Paper	            Computer Wins
 
-Paper          Stone              Player Wins
+Paper             Stone                 Player Wins
 
-Paper       	Scissors	      Computer Wins
+Paper           	Scissors     	      Computer Wins
 
-Scissors	    Paper	          Player Wins
+Scissors	     Paper	            Player Wins
 
-Scissors	    Stone	          Computer Wins
-
-Same       	    Same	              Draw
+Scissors	     Stone	           Computer Wins
+ 
+Same       	     Same	                Draw
 
 
 🧠 Rules:
